@@ -1,2 +1,2 @@
 # Brightsurf
-Archive of Brightsurf science news articles
+Archive of [Brightsurf Science News](https://brightsurf.com/) articles
